@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Rise_of_the_Tomb_Raider.jpg",
+      "category": "Action",
+      "title": "Rise of the Tomb Raiderr",
+      "price": "₹250",
+      "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new “Blood Ties” story, then defend it against a zombie invasion in “Lara’s Nightmare”. Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new “Extreme Survivor” difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins. Existing DLC will challenge you to explore a new tomb that houses an ancient terror in Baba Yaga: The Temple of the Witch, and combat waves of infected predators in Cold Darkness Awakened.",
+      "allimages": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_c61955cad6c9ec672f6a2f4a192b234a6f752d10.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_2b612bfa62d920b061e900e1f7a975a2de6729ec.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_0602fd918166985793cbae01df4c8a944f1f76dd.600x338.jpg?t=1709834259",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_4ef0868ecfc6b19bc1af18b88cabe33fe8147cf7.600x338.jpg?t=1709834259"
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg",
+      "category": "Anime",
+      "title": "Need For Speed Payback",
+      "price": "₹10",
+      "description": "Set in the underworld of Fortune Valley, you and your crew were divided by betrayal and reunited by revenge to take down The House, a nefarious cartel that rules the city’s casinos, criminals and cops. In this corrupt gambler’s paradise, the stakes are high and The House always wins.Craft unique rides with deeper performance and visual customization than ever before. Push them to the limit when you narrowly escape the heat in epic cop battles. From insane heist missions to devastating car battles to jaw-dropping set piece moments, Need for Speed Payback delivers an edge-of-your-seat, adrenaline-fueled action-driving fantasy.",
+      "allimages": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_afc36c446e528e64298b881d59d245e0426d0673.600x338.jpg?t=1692306558",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_d81665a501336c92ecc0af24fbc672be9ec924cc.600x338.jpg?t=1692306558",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_c808818da89f8dff9cdc85789e8f6f089b257bea.600x338.jpg?t=1692306558",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/ss_3f14712eab1f5f22e4cbf3d68acf3dba2f999d06.600x338.jpg?t=1692306558"
+      ]
+    }
+  ]
+}
